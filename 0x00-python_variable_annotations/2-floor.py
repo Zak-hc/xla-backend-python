@@ -2,6 +2,6 @@
 """floor"""
 
 
-def floor(n:float) -> int:
+def floor(n: float) -> int:
     """floor"""
     return int(n)
